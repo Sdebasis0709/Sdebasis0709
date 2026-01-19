@@ -1,221 +1,407 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20There!%20👋%20I'm%20Debasis&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Engineer%20|%20Backend%20%26%20AI%20Platforms%20Specialist&descAlignY=55&descSize=20)
+<!-- Custom Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Hey%20There!%20I'm%20Debasis%20Sahoo%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20Architect%20|%20Backend%20Specialist&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Scalable+AI+%26+Backend+Systems;Python+%7C+FastAPI+%7C+Django+%7C+GenAI;2%2B+Years+in+Fintech+%26+AI+Platforms" alt="Typing SVG" />
+<!-- Animated Typing Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=Building+Scalable+AI+%26+Backend+Ecosystems+%F0%9F%9A%80;Python+%7C+FastAPI+%7C+Django+%7C+GenAI+%7C+LLMs;2%2B+Years+Transforming+Fintech+%26+AI+Platforms;Powered+by+Innovation+%26+Clean+Code+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasis-sahoo-5a7866249/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sdebasis0709.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahoodebasis125@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sdebasis0709)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sdebasis0709&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- Stunning Badge Links with Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/debasis-sahoo-5a7866249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  <a href="https://sdebasis0709.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=764ba2"/>
+  </a>
+  <a href="mailto:sahoodebasis125@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D93025"/>
+  </a>
+  <a href="https://github.com/Sdebasis0709">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2b3137"/>
+  </a>
+</p>
+
+<!-- Animated Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sdebasis0709&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Sdebasis0709?label=Followers&style=for-the-badge&color=764ba2&labelColor=667eea" alt="followers" />
+</p>
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```python
 class DebasisSahoo:
     def __init__(self):
+        self.username = "Sdebasis0709"
         self.name = "Debasis Sahoo"
-        self.role = "Software Engineer (Backend & AI Platforms)"
+        self.role = "Software Engineer (Backend & AI)"
         self.location = "Bengaluru, India 🇮🇳"
+        self.code = ["Python", "JavaScript"]
         self.experience = "2+ years"
-        self.current_focus = ["GenAI", "LLM Integration", "Scalable Backend Systems"]
-        self.education = "B.Tech in Computer Science & Engineering"
+        self.learning = "GenAI & Advanced LLM Integration"
         
-    def get_expertise(self):
+    def get_current_stack(self):
         return {
-            "backend": ["Python", "Django", "FastAPI", "RESTful APIs"],
-            "ai_ml": ["Azure OpenAI", "LLMs", "Prompt Engineering", "RAG", "NLP"],
-            "databases": ["PostgreSQL", "MySQL", "Redis", "Vector DBs"],
+            "backend": ["FastAPI", "Django", "DRF"],
+            "ai_ml": ["Azure OpenAI", "LLMs", "RAG", 
+                     "Prompt Engineering", "MCP"],
+            "databases": ["PostgreSQL", "MySQL", "Redis"],
             "devops": ["Docker", "CI/CD", "AWS", "Nginx"],
-            "architecture": ["Microservices", "Async Processing", "API Design"]
+            "async": ["Celery", "APScheduler", "WebSockets"]
         }
     
-    def currently_working_on(self):
-        return "Building production-grade AI agents with MCP tools & LLM orchestration 🤖"
+    def say_hi(self):
+        print("Let's build something amazing together!")
 
 me = DebasisSahoo()
-print(me.currently_working_on())
-# Output: Building production-grade AI agents with MCP tools & LLM orchestration 🤖
+print(me.say_hi())
 ```
 
-💡 **What I Do:**  
-I build **scalable AI-driven backend systems** that power fintech platforms and AI applications. From designing **RESTful APIs** to implementing **LLM orchestration** with Model Context Protocol (MCP), I specialize in creating production-ready solutions that handle real-world complexity.
+<br/>
 
-🎯 **Current Mission:**  
-Deep diving into **Generative AI development** and pushing the boundaries of what's possible with **Large Language Models**, prompt engineering, and AI agent architectures.
+### 🎯 Quick Highlights
 
----
+- 🚀 Building **production-grade AI agents** with MCP & LLM orchestration
+- 💼 **2+ years** crafting scalable fintech & AI-driven backend systems
+- 🤖 Specialized in **Azure OpenAI, RAG systems & Prompt Engineering**
+- ⚡ Expert in **async architectures, Redis caching & API optimization**
+- 🎓 Certified in **GenAI, LLMs & Prompt Engineering**
+- 👨‍🏫 Passionate about **mentoring** and sharing knowledge
+- 📚 Currently deep-diving into **Generative AI development**
 
-## 🛠️ Tech Arsenal
+<br/>
 
-### 💻 Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript&theme=dark" />
+</p>
 
 ### ⚡ Backend & Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask&theme=dark" />
+</p>
 
-### 🤖 AI & ML Technologies
-![Azure](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### 🤖 AI/ML & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,tensorflow&theme=dark" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+</p>
 
 ### 🗄️ Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=dark" />
+</p>
 
 ### 🔧 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,postman,vscode&theme=dark" />
+</p>
 
-### 🔄 Async & Background Processing
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
+</p>
 
----
+</div>
 
-## 💼 Professional Journey
+<br/>
 
-### 🏢 Associate Software Engineer @ Isteer Technology Pvt Ltd
-**July 2025 - Present | Bengaluru**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🎯 **Key Achievements:**
-- 🤖 Built **production-grade AI backend services** using FastAPI supporting real-time AI operations
-- 🔗 Designed **Model Context Protocol (MCP) tools** enabling seamless integration across Azure OpenAI, ChatGPT, and Gemini
-- ⚡ Optimized **async HTTPX clients** with connection pooling, drastically reducing API latency
-- 🎨 Engineered **prompt templates** and LLM optimization strategies improving AI consistency by 40%
-- 🚀 Implemented **Redis caching** for session management reducing backend load significantly
-
-### 💰 Software Engineer @ Vividhity Venture Pvt Ltd
-**March 2024 - July 2025 | Bengaluru**
-
-🎯 **Key Achievements:**
-- 📈 Built **algo trading platforms** using Django/DRF for automated trade strategies
-- 🔐 Implemented **SEBI-regulated fintech workflows** with RBAC and JWT authentication
-- 📊 Designed **real-time trading pipelines** using WebSockets and async API integrations
-- ⏰ Created **automation pipelines** with Celery and APScheduler for strategy execution
-- ✅ Achieved **zero critical production incidents** through structured testing and logging
-
----
+<br/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sdebasis0709&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sdebasis0709&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&ring_color=667eea"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sdebasis0709&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sdebasis0709&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sdebasis0709&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8"/>
 
 </div>
-
----
-
-## 🏆 Achievements & Highlights
 
 <div align="center">
 
-| 🎯 Achievement | 📝 Description |
-|---------------|---------------|
-| 🚀 **Production Excellence** | Zero critical incidents through proactive testing & structured logging |
-| 👨‍🏫 **Technical Leadership** | Delivered complex AI integration ahead of schedule while mentoring juniors |
-| 📚 **Continuous Learning** | GenAI & Prompt Engineering certifications from LinkedIn Learning |
-| ⚡ **Performance Guru** | Optimized systems for high-frequency fintech & AI workloads |
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Sdebasis0709&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=f093fb&currStreakLabel=667eea&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=764ba2&sideNums=c9d1d9" alt="GitHub Streak" />
 
 </div>
 
----
+<div align="center">
 
-## 📜 Certifications
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sdebasis0709&bg_color=0d1117&color=667eea&line=f093fb&point=764ba2&area=true&hide_border=true" alt="Activity Graph" />
 
-🎓 **GenAI and LLM** - LinkedIn Learning  
-🎓 **Prompt Engineering** - LinkedIn Learning  
-🎓 **Python Full Stack Development** - Pyspider Training Institute
+</div>
 
----
+<br/>
 
-## 🎨 Skill Distribution
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```text
-Python          ████████████████████   95%
-FastAPI/Django  ██████████████████     90%
-GenAI/LLMs      █████████████████      85%
-REST APIs       ████████████████████   95%
-Redis/Caching   ███████████████        75%
-Docker/DevOps   ██████████████         70%
-WebSockets      ████████████           60%
-Frontend        █████████              45%
+<br/>
+
+## 💼 Professional Experience
+
+<div align="center">
+
+### 🏢 Associate Software Engineer @ Isteer Technology
+**📍 Bengaluru | 📅 July 2025 - Present**
+
+</div>
+
+```yaml
+AI Backend Specialist:
+  achievements:
+    - "🤖 Architected production-grade AI backends with FastAPI for real-time operations"
+    - "🔗 Designed Model Context Protocol (MCP) enabling Azure OpenAI, ChatGPT & Gemini integration"
+    - "🎨 Built optimized prompt templates improving AI accuracy by 40%"
+    - "⚡ Implemented Redis caching reducing backend latency significantly"
+    - "🚀 Deployed async HTTPX clients with connection pooling for high-performance APIs"
+  
+  tech_stack: ["Python", "FastAPI", "Azure OpenAI", "MCP", "Redis", "Docker", "CI/CD"]
 ```
 
----
+<div align="center">
 
-## 🌟 Featured Projects & Expertise
+### 💹 Software Engineer @ Vividhity Venture
+**📍 Bengaluru | 📅 March 2024 - July 2025**
 
-### 🤖 AI & LLM Integration
-- Model Context Protocol (MCP) implementation for cross-platform AI operations
-- RAG-based systems with vector databases
-- Prompt engineering & LLM optimization
-- AI agent orchestration with validation layers
+</div>
+
+```yaml
+Fintech Platform Engineer:
+  achievements:
+    - "📈 Built algorithmic trading platforms with Django/DRF for automated strategies"
+    - "🔐 Implemented SEBI-compliant workflows with RBAC & JWT authentication"
+    - "📊 Engineered real-time trading pipelines using WebSockets & async APIs"
+    - "⏰ Created automation pipelines with Celery & APScheduler"
+    - "✅ Achieved ZERO critical production incidents through testing & monitoring"
+  
+  tech_stack: ["Python", "Django", "DRF", "MySQL", "WebSockets", "Celery", "PyTest"]
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎯 Professional Wins
+
+🚀 **Zero Critical Incidents**  
+Achieved 100% uptime in production
+
+👨‍🏫 **Technical Leadership**  
+Delivered AI integration ahead of schedule
+
+⚡ **Performance Expert**  
+Optimized systems for high-frequency workloads
+
+📚 **Knowledge Sharing**  
+Mentored juniors & trained students
+
+</td>
+<td align="center" width="50%">
+
+### 🎓 Certifications
+
+🏅 **GenAI and LLM**  
+LinkedIn Learning
+
+🏅 **Prompt Engineering**  
+LinkedIn Learning  
+
+🎓 **Python Full Stack**  
+Pyspider Training Institute
+
+🎓 **B.Tech CSE**  
+Biju Patnaik University
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🎨 Skills Proficiency
+
+<div align="center">
+
+| **Domain** | **Technologies** | **Proficiency** |
+|------------|------------------|-----------------|
+| **Backend Development** | Python, FastAPI, Django, DRF | ![95%](https://progress-bar.dev/95/?width=200&color=667eea) |
+| **AI & LLM Integration** | Azure OpenAI, RAG, MCP, Prompt Engineering | ![85%](https://progress-bar.dev/85/?width=200&color=764ba2) |
+| **API Development** | RESTful APIs, WebSockets, Async | ![95%](https://progress-bar.dev/95/?width=200&color=f093fb) |
+| **Databases** | PostgreSQL, MySQL, Redis | ![80%](https://progress-bar.dev/80/?width=200&color=667eea) |
+| **DevOps & Cloud** | Docker, CI/CD, AWS, Azure | ![75%](https://progress-bar.dev/75/?width=200&color=764ba2) |
+| **Testing & Quality** | PyTest, Unit Tests, Code Reviews | ![90%](https://progress-bar.dev/90/?width=200&color=f093fb) |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🌟 Featured Expertise
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🤖 AI Integration
+Model Context Protocol  
+Azure OpenAI Integration  
+RAG Systems  
+Prompt Engineering  
+LLM Orchestration  
+Vector Databases
+
+</td>
+<td align="center" width="33%">
 
 ### 💹 Fintech Solutions
-- Algorithmic trading platforms with real-time data pipelines
-- SEBI-compliant investment advisory systems
-- High-frequency trading data processing
-- Secure authentication & authorization systems
+Algo Trading Platforms  
+Real-time Data Pipelines  
+SEBI Compliance  
+WebSocket Integration  
+High-frequency Processing  
+Secure Authentication
 
-### ⚡ Performance Engineering
-- Redis caching strategies for session management
-- Async processing with Celery & APScheduler
-- Database indexing & query optimization
-- Connection pooling & resource management
+</td>
+<td align="center" width="33%">
 
----
+### ⚡ Performance Tuning
+Redis Caching Strategy  
+Async Processing  
+Connection Pooling  
+Database Optimization  
+Query Indexing  
+Resource Management
 
-## 💭 Quote I Live By
-
-<div align="center">
-
-*"The best way to predict the future is to invent it."*  
-**— Alan Kay**
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-💼 Open to exciting **Backend Engineering** and **AI/ML** opportunities!  
-🤝 Always happy to collaborate on **innovative projects**  
-📧 Reach out: **sahoodebasis125@gmail.com**
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasis-sahoo-5a7866249/)
-[![Portfolio](https://img.shields.io/badge/Check_Out_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sdebasis0709.github.io/Portfolio/)
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sdebasis0709&theme=tokyonight" alt="Contribution Graph"/>
 
-**⭐ From [Sdebasis0709](https://github.com/Sdebasis0709) with 💙**
+</div>
 
-*Last Updated: January 2026*
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 💭 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sdebasis0709/Sdebasis0709/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sdebasis0709/Sdebasis0709/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sdebasis0709/Sdebasis0709/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 📫 Let's Connect & Collaborate!
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+### 🚀 Open to Exciting Opportunities in Backend Engineering & AI/ML
+
+💡 **Passionate about building scalable systems that make a difference**  
+🤝 **Always ready to collaborate on innovative projects**  
+📧 **Reach out:** sahoodebasis125@gmail.com
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/debasis-sahoo-5a7866249/">
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://sdebasis0709.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/View_My-Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:sahoodebasis125@gmail.com">
+    <img src="https://img.shields.io/badge/Drop_a-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+### ⭐ If you like my work, consider starring my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=footer"/>
+
+**💜 From [Sdebasis0709](https://github.com/Sdebasis0709) • Built with passion & coffee ☕**
 
 </div>
