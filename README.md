@@ -356,7 +356,6 @@ Resource Management
 
 <br/>
 
-## 🐍 Contribution Snake
 
 ## 🐍 Contribution Snake
 
