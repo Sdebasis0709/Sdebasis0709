@@ -261,18 +261,18 @@ Biju Patnaik University
 
 <br/>
 
-## 🎨 Skills Proficiency
+## 🎨 Technical Expertise
 
 <div align="center">
 
-| **Domain** | **Technologies** | **Proficiency** |
-|------------|------------------|-----------------|
-| **Backend Development** | Python, FastAPI, Django, DRF | ![95%](https://progress-bar.dev/95/?width=200&color=667eea) |
-| **AI & LLM Integration** | Azure OpenAI, RAG, MCP, Prompt Engineering | ![85%](https://progress-bar.dev/85/?width=200&color=764ba2) |
-| **API Development** | RESTful APIs, WebSockets, Async | ![95%](https://progress-bar.dev/95/?width=200&color=f093fb) |
-| **Databases** | PostgreSQL, MySQL, Redis | ![80%](https://progress-bar.dev/80/?width=200&color=667eea) |
-| **DevOps & Cloud** | Docker, CI/CD, AWS, Azure | ![75%](https://progress-bar.dev/75/?width=200&color=764ba2) |
-| **Testing & Quality** | PyTest, Unit Tests, Code Reviews | ![90%](https://progress-bar.dev/90/?width=200&color=f093fb) |
+| **Domain** | **Technologies** | **Experience Level** |
+|------------|------------------|---------------------|
+| **Backend Development** | Python, FastAPI, Django, DRF | ⭐⭐⭐⭐⭐ Expert |
+| **AI & LLM Integration** | Azure OpenAI, RAG, MCP, Prompt Engineering | ⭐⭐⭐⭐ Advanced |
+| **API Development** | RESTful APIs, WebSockets, Async | ⭐⭐⭐⭐⭐ Expert |
+| **Databases** | PostgreSQL, MySQL, Redis | ⭐⭐⭐⭐ Advanced |
+| **DevOps & Cloud** | Docker, CI/CD, AWS, Azure | ⭐⭐⭐⭐ Advanced |
+| **Testing & Quality** | PyTest, Unit Tests, Code Reviews | ⭐⭐⭐⭐⭐ Expert |
 
 </div>
 
@@ -357,12 +357,6 @@ Resource Management
 <br/>
 
 ## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Sdebasis0709/Sdebasis0709/output/github-snake-dark.svg)
-
-</div>
 
 <div align="center">
 
